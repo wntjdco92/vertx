@@ -1,0 +1,28 @@
+{
+	"id": "christmas",
+	"title": "크리스마스 메뉴 판매하는 맛집 베스트 10곳",
+	"desc": "\"드디어 기다리고 기다리던 날이 왔다\"",
+	"clicks": 5993,
+	"date": "2016-12-19", 
+	"stores":[{
+		 "img":"img/main_section03_01.jpg",
+    	"name": "거구장",
+    	"score": 3.4,
+		"location" :"마포",
+		"category": "건물",
+		"latLng": {
+			"lat": 37.552621, 
+			"lng": 126.937743
+		}
+	}, {
+		 "img":"img/main_section03_01.jpg",
+    	"name": "거구장",
+    	"score": 3.4,
+		"location" :"마포",
+		"category": "건물",
+		"latLng": {
+			"lat": 37.555853, 
+			"lng": 126.935651
+		}
+	}]
+}

@@ -1,0 +1,168 @@
+{
+	"id": "christmas",
+	"title": "크리스마스 메뉴 판매하는 맛집 베스트 10곳",
+	"desc": "\"드디어 기다리고 기다리던 날이 왔다\"",
+	"clicks": 5993,
+	"date": "2016-12-19", 
+	"stores":[{
+		 "img":"img/main_section03_01.jpg",
+    	"name": "거구장",
+    	"score": 3.4,
+		"location" :"마포",
+		"category": "건물",
+		"latLng": {
+			"lat": 37.552621, 
+			"lng": 126.937743
+		},"address": "서울 강서구",
+		"review":{   	
+			"editorPic" : "img/editor01.JPG",
+			"editorName" :"이지은",
+			"content": "배움의 장터 배우는 것이 곧 먹는것이다!"
+		} 
+	},{
+		 "img":"img/main_section03_02.jpg",
+    	"name": "이자와",
+    	"score": 3.4,
+		"location" :"신촌",
+		"category": "지하1층",
+		"latLng": {
+			"lat": 37.5569852, 
+			"lng": 126.9295046
+		},
+		"address": "서울 신촌",
+		"review":{   	
+			"editorPic" : "img/editor02.JPG",
+			"editorName" :"효성",
+			"content": "규카츠가 그렇게 맛있는곳! 아 물론 현지와는 비교 안됨"
+		}
+	},{
+		 "img":"img/main_section03_03.jpg",
+    	"name": "노랑통닭",
+    	"score": 3.4,
+		"location" :"마포",
+		"category": "서교동",
+		"latLng": {
+			"lat": 37.5536988,
+			 "lng": 126.9221475
+		},
+		"address": "서울 마포구",
+		"review":{   	
+			"editorPic" : "img/editor03.JPG",
+			"editorName" :"이은지",
+			"content": "노랑통닭 세트 맛있어여!"
+		}
+	},{
+		 "img":"img/main_section03_04.jpg",
+    	"name": "낭풍",
+    	"score": 3.4,
+		"location" :"신촌",
+		"category": "지하 1층",
+		"latLng": {
+			"lat": 37.5581079, 
+			"lng": 126.93546184
+		},
+		"address": "서울 서대문구 창천동",
+		"review":{   	
+			"editorPic" : "img/editor01.JPG",
+			"editorName" :"이지은",
+			"content": "이렇게 맛좋고 양많은 김취찌개"
+		}
+	},{
+		 "img":"img/main_section03_05.jpg",
+    	"name": "피자헛",
+    	"score": 3.4,
+		"location" :"마포",
+		"category": "피자",
+		"latLng": {
+			"lat": 37.5561742, 
+			"lng": 126.9230684
+		},
+		"address": "서울 마포구 동교동",
+		"review":{   	
+			"editorPic" : "img/editor02.JPG",
+			"editorName" :"효성",
+			"content": "피자헛이 무슨말이 더 필요해?"
+		}
+	},{
+		 "img":"img/main_section03_06.jpg",
+    	"name": "카스테라",
+    	"score": 3.4,
+		"location" :"명동",
+		"category": "카스테라",
+		"latLng": {
+			"lat": 37.5641097, 
+			"lng": 126.9800735
+		},
+		"address": "서울 중구 소공동",
+		"review":{   	
+			"editorPic" : "img/editor03.JPG",
+			"editorName" :"이은지",
+			"content": "아빠아빠"
+		}
+	},{
+		 "img":"img/main_section03_07.jpg",
+    	"name": "현대백화점",
+    	"score": 3.4,
+		"location" :"서대문구",
+		"category": "카스테라",
+		"latLng": {
+			"lat": 37.5559194, 
+			"lng": 126.9356646
+		},
+		"address": "서울 서대문구 창천동",
+		"review":{   	
+			"editorPic" : "img/editor01.JPG",
+			"editorName" :"효성",
+			"content": "안에 치즈가 들어있는 것까지 파네"
+		}
+	},{
+		 "img":"img/main_section03_08.jpg",
+    	"name": "장수 물식당",
+    	"score": 3.4,
+		"location" :"제주도",
+		"category": "식당",
+		"latLng": {
+			"lat": 33.4919364, 
+			"lng": 126.4984411
+		},
+		"address": "제주 특별 자치도",
+		"review":{   	
+			"editorPic" : "img/editor02.JPG",
+			"editorName" :"유영",
+			"content": "수육 고기와 일품 국수의 만남"
+		}
+	},{
+		 "img":"img/main_section03_01.jpg",
+    	"name": "흑돼지",
+    	"score": 3.4,
+		"location" :"제주도",
+		"category": "돼지고기",
+		"latLng": {
+			"lat": 33.2616717, 
+			"lng": 126.5564758
+					},
+					"address": "제주특별 자치도",
+					"review":{   	
+						"editorPic" : "img/editor03.JPG",
+						"editorName" :"이은지",
+						"content": "흑돼지가 무지막지하게 맛있는곳"
+		}
+	},{
+		 "img":"img/main_section02_03.jpg",
+    	"name": "돼지국밥",
+    	"score": 3.4,
+		"location" :"부산",
+		"category": "국밥",
+		"latLng": {
+			"lat": 35.1568348, 
+			"lng": 129.1036318
+		},
+		"address": "부산 해운대구",
+		"review":{   	
+			"editorPic" : "img/editor01.JPG",
+			"editorName" :"효성",
+			"content": "돼지국밥 맛있다! 솔직히 순대국밥보다 맛난다"
+		}
+	}
+	]
+}

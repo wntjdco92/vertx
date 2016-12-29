@@ -1,0 +1,57 @@
+[{
+    "img":"img/main_section03_01.jpg",
+    "name": "아주잘",
+    "score": 3.4,
+	"location" :"신촌",
+	"category": "과실"
+	
+},{
+    "img":"img/main_section03_02.jpg",
+    "name": "열심히",
+    "score": 3.9,
+	"location" :"신촌",
+	"category": "라멘"
+	
+},{
+    "img":"img/main_section03_03.jpg",
+    "name": "최선을!",
+    "score": 3.4,
+	"location" :"명지대",
+	"category": "야끼우동"
+	
+},{
+    "img":"img/main_section03_04.jpg",
+    "name": "최선을 다해서!",
+    "score": 3.6,
+	"location" :"숙대",
+	"category": "물회"
+	
+},{
+    "img":"img/main_section03_05.jpg",
+    "name": "브아아아아",
+    "score": 3.4,
+	"location" :"종로구",
+	"category": "귤"
+	
+},{
+    "img":"img/main_section03_06.jpg",
+    "name": "쾅쾅",
+    "score": 4.1,
+	"location" :"이대",
+	"category": "김치전"	
+	
+},
+{
+    "img":"img/main_section03_07.jpg",
+    "name": "쥬르륵 커피",
+    "score": 4.0,
+	"location" :"간호대",
+	"category": "커피"
+},
+{
+    "img":"img/main_section03_08.jpg",
+    "name": "배부르다 덮밥",
+    "score": 4.3,
+	"location" :"노량진",
+	"category": "덮밥"
+}]

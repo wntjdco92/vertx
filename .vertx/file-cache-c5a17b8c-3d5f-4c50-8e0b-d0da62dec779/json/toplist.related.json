@@ -1,0 +1,29 @@
+[{
+    "img":"img/main_section03_01.jpg",
+    "name": "아주잘",
+    "score": 3.4,
+	"location" :"신촌",
+	"category": "과실"
+	
+},{
+    "img":"img/main_section03_02.jpg",
+    "name": "열심히",
+    "score": 3.9,
+	"location" :"신촌",
+	"category": "라멘"
+	
+},{
+    "img":"img/main_section03_03.jpg",
+    "name": "최선을!",
+    "score": 3.4,
+	"location" :"명지대",
+	"category": "야끼우동"
+	
+},{
+    "img":"img/main_section03_04.jpg",
+    "name": "최선을 다해서!",
+    "score": 3.6,
+	"location" :"숙대",
+	"category": "물회"
+	
+}

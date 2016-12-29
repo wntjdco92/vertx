@@ -1,0 +1,22 @@
+[{
+    "img":"img/main_section02_01.jpg",
+    "title": "블로그 제작자 선정 고기맛집 top 5",
+    "desc": "\"크 오늘은 고기가 땡기는군?!\"",
+	"editorPic" : "img/editor01.JPG",
+	"editorName" :"아이유"
+	
+}, {
+    "img":"img/main_section02_02.jpg",
+    "title": "블로그 제작자 선정 삼겹사리 맛집 top 5",
+    "desc": "\"어머 여긴 꼭 가봐야햇!\"",
+   	"editorPic" : "img/editor02.JPG",
+	"editorName" :"유영"
+
+},  {
+    "img":"img/main_section02_03.jpg",
+    "title": "블로그 제작자 선정 갈비 맛집 top 5",
+    "desc": "\"뜯고 또 뜯고!\"",
+    	"editorPic" : "img/editor03.JPG",
+	"editorName" :"전효성느님"
+
+}]
